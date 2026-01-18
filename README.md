@@ -1,8 +1,8 @@
 Hi 👋 I'm Kratika Varshney
 
 🎓 Btech(IT) Student in G.L Bajaj Institute of Technology and Managements(Greater Noida)   
-💻 Java Programmer & CS Enthusiast  
-📚 Learning Core Programming & Backend Concepts
+- Java Programmer & CS Enthusiast  
+- Learning Core Programming & Backend Concepts
 
 
 🚀 About Me  
@@ -21,13 +21,13 @@ Hi 👋 I'm Kratika Varshney
 
 
 📚 Currently Learning  
-Advanced Java  
-Database Management Systems  
-Frontend Developments Concepts
+- Advanced Java  
+- Database Management Systems  
+- Frontend Developments Concepts
 
 
 📂 Projects  
-Fit Journey App – A fitness and exercise-based application to promote a healthy lifestyle
+- Fit Journey App – A fitness and exercise-based application to promote a healthy lifestyle
 
 
 📫 Connect With Me:   
